@@ -1,6 +1,8 @@
 body {
-  background-color: #f9f7fe;
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20230913/pngtree-the-sky-with-big-clouds-and-sun-above-this-day-image_13277653.jpg");
+  background-repeat: no-repeat;
   font-family: "Roboto", sans-serif;
+  background-position: 50%;
 }
 
 a {
@@ -124,4 +126,8 @@ footer {
   text-align: center;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
+}
+img {
+  width: 90;
+  opacity: 4px;
 }
