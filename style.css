@@ -1,6 +1,5 @@
 body {
   font-family: "Roboto", sans-serif;
-  background-position: 50%;
 }
 
 a {
@@ -10,6 +9,9 @@ a {
 .weather-app {
   background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20230913/pngtree-the-sky-with-big-clouds-and-sun-above-this-day-image_13277653.jpg");
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: 50px;
+  opacity: 4px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
