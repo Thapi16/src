@@ -107,6 +107,7 @@ main {
 }
 
 .weather-forecast {
+  display: block;
   margin-top: 40px;
 }
 
