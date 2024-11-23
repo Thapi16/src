@@ -88,8 +88,13 @@ main {
 .weather-app-icon {
   width: 88px;
   height: 88px;
+  z-index: 1;
 }
-
+.weather-app-icon img {
+  width: 60px;
+  height: 60px;
+  opacity: 1;
+}
 .weather-app-temperature {
   font-size: 88px;
   line-height: 88px;
@@ -139,8 +144,4 @@ footer {
   text-align: center;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
-}
-img {
-  width: 90;
-  opacity: 0.4;
 }
