@@ -49,6 +49,7 @@ main {
 }
 
 .weather-app-data {
+  background: none;
   display: flex;
   justify-content: space-between;
 }
