@@ -121,8 +121,8 @@ main {
 }
 
 .weather-forecast-icon {
-  width: 88px;
-  height: 88px;
+  width: 48px;
+  height: 48px;
   display: block;
   margin: 0 auto;
 }
@@ -136,6 +136,11 @@ main {
 
 .weather-forecast-temperature {
   padding: 0 10px;
+  font-size: 14px;
+}
+
+.weather-app-temperature strong {
+  color: #f65282;
 }
 
 footer {
