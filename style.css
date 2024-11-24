@@ -113,9 +113,9 @@ main {
 
 .weather-forecast {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   margin-top: 30px;
-  position: bottom;
+  position: absolute;
 }
 
 .weather-forecast-date {
