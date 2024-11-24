@@ -82,12 +82,12 @@ main {
 
 .weather-app-temperature-container {
   display: flex;
+  justify-content: flex-end;
 }
 
 .weather-app-icon {
   width: 88px;
   height: 88px;
-  z-index: 1;
 }
 
 .weather-app-temperature {
