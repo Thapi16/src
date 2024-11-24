@@ -84,11 +84,10 @@ main {
 
 .weather-app-temperature-container {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .weather-app-icon {
-  width: 60px;
+  width: 88px;
   height: 88px;
   z-index: 1;
 }
@@ -110,9 +109,8 @@ main {
 
 .weather-forecast {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   margin-top: 30px;
-  padding: 20px 0;
 }
 
 .weather-forecast-date {
