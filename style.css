@@ -94,7 +94,7 @@ main {
 .weather-app-icon {
   width: 60px;
   height: 88px;
-  z-index: 3;
+  z-index: -3;
 }
 .weather-app-icon img {
   width: 60px;
